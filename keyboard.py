@@ -15,15 +15,10 @@ start_keyboard = [
     ],
     [
         InlineKeyboardButton(text='🔗订阅链接', callback_data='mysub'),
-        InlineKeyboardButton(text='🎰赌博模式🎲', callback_data='start_game'),
     ],
     [
-        InlineKeyboardButton(text='🎰开奖记录🎰', callback_data='betting_slots'),
-        InlineKeyboardButton(text='🎲下注(开发中)🎲', callback_data='dice'),
-    ],
-    [
-        InlineKeyboardButton(text='Ver:20230924.1 main',
-                             url='https://github.com/v2boardbot/v2boardbot')
+        InlineKeyboardButton(text='星雨幻境专属机器人-V3.1',
+                             url='https://strf.asia/')
     ]
 ]
 keyboard_admin = [
